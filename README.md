@@ -5,7 +5,7 @@
                   calculadora funcional. Tiene incorporado el concepto de
                   neumorfismo y un modo oscuro.  
 </p> 
-<img width="30%" src="https://github.com/davidboxler/calculator/blob/master/img/proyecto7.png" alt="banner_calculadora" />
+<img width="100%" src="https://github.com/davidboxler/calculator/blob/master/img/proyecto7.png" alt="banner_calculadora" />
 
 <h3> Tecnologías utilizadas: </h3>
 
